@@ -1,6 +1,5 @@
-# Datasets iniciales (demasiado pesados)
-data/state_NY.csv
-data/hmda_base.csv
+# Datasets csv (demasiado pesados)
+data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
